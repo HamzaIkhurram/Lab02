@@ -1,3 +1,6 @@
+// ENSF380 Lab02
+// Farha Ahmed and Hamza Khurram
+// Jul 11, 2024
 package ca.ucalgary.ensf380;
 
 import java.util.ArrayList;
